@@ -114,9 +114,9 @@ Merge to main	on_merge.yml	prod.mp3
 
     Look for:
 
-        polly-audio/beta.mp3 (PRs)
+        polly-pixel-learning-s3/beta.mp3 (PRs)
 
-        polly-audio/prod.mp3 (Merges)
+        polly-pixel-learning-s3/prod.mp3 (Merges)
 
 📬 Contact
 
