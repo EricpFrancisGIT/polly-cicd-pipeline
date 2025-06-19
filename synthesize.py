@@ -8,8 +8,8 @@ def synthesize_speech(text, output_file):
     response = polly.synthesize_speech(
         Text=text,
         OutputFormat='mp3',
-        VoiceId='Stephen'
-        Engine='neural'
+        VoiceId='Matthew'
+        
     )
 
     with open(output_file, 'wb') as file:
