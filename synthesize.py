@@ -9,6 +9,7 @@ def synthesize_speech(text, output_file):
         Text=text,
         OutputFormat='mp3',
         VoiceId='Stephen'
+        Engine='neural'
     )
 
     with open(output_file, 'wb') as file:
